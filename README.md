@@ -24,10 +24,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Prerequisites</h2>
 
-In order to observe osTicket lifecycles, osTicket must have been already installed and have post-installation configurations.
+In order to observe osTicket lifecycles, osTicket must have been already installed and have post-installation configurations. Review how to do those here:
 
-* Prerequisites and Installation Tutorial: https://github.com/darinnstathos/osticket-prereqs.git
-* Post-Installation Configurations Tutorial: https://github.com/darinnstathos/post-install-config.git
+* [Prerequisites and Installation Tutorial](https://github.com/thekobewan/osticket-prereqs)
+* [Post-Installation Configurations Tutorial](https://github.com/thekobewan/post-install-config)
 
 <h2>Lifecycle Stages</h2>
 
@@ -82,7 +82,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 <img src="https://i.imgur.com/EBkizSI.png" height="80%" width="80%" alt="No Tickets appearing"/>
 <br>
 
-4. Navigate back to the admin login link: Login as 'Supreme Admin': (example: darin_admin)
+4. Navigate back to the admin login link: Login as 'Supreme Admin':
 5. When we log in, we can see the tickets appear via the Agent Panel as Supreme Admin
 6. Select 'Admin Panel' > click ‘Agents’ > click ‘Jane Doe' 
 
